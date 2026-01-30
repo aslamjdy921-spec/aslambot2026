@@ -20,15 +20,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557290571000",
-    "100087625774227",
-    "61584035788710"
+    "61587008264131",
+    "61587205564832"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61557290571000",
-"61584035788710",
-      ""
+    "whiteListIds": [
+      "61587008264131",
+      "61587205564832"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
@@ -150,4 +149,4 @@
     "autoReconnect": false,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
-}
+  }
